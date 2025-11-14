@@ -1,4 +1,4 @@
-# training-project
+# My Super Project
 
 # My Project Plan
 
