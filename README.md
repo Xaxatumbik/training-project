@@ -1,4 +1,4 @@
-# training-project
+# My Awesome Project
 
 # My Project Plan
 
